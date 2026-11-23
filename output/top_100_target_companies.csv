@@ -1,0 +1,101 @@
+rank,company,industry,growth_rate,revenue,employees,employee_growth_pct,city,state,founded,url
+1,Freestar,Advertising & Marketing,36680.4,36.9 Million,40.0,700.0,Phoenix,AZ,2015.0,http://freestar.com
+2,FreightWise,Logistics & Transportation,30547.9,33.6 Million,39.0,387.5,Brentwood,TN,2015.0,http://freightwisellc.com
+3,Cece's Veggie Co.,Food & Beverage,23880.5,24.9 Million,190.0,1800.0,Austin,TX,2015.0,http://cecesveggieco.com
+4,LadyBoss,Consumer Products & Services,21849.9,32.4 Million,57.0,2750.0,Albuquerque,NM,2014.0,http://ladyboss.com
+5,Perpay,Retail,18166.4,22.5 Million,25.0,316.7,Philadelphia,PA,2014.0,http://perpay.com
+6,Cano Health,Health,14183.4,271.8 Million,742.0,4022.2,Miami,FL,2009.0,http://canohealth.com
+7,Bear Mattress,Consumer Products & Services,13480.7,20.5 Million,12.0,1100.0,Hoboken,NJ,2014.0,http://bearmattress.com
+8,Connected Solutions Group,Telecommunications,12700.7,23.3 Million,72.0,7100.0,Mechanicsville,VA,2015.0,http://csgstore.net
+9,Providence Healthcare Management,Health,12564.5,225.9 Million,60.0,500.0,Cleveland,OH,2008.0,http://providencehcm.com
+10,NOM,Advertising & Marketing,11996.3,21.4 Million,37.0,640.0,Los Angeles,CA,2014.0,http://thisisnom.co
+11,NuLeaf Naturals,Consumer Products & Services,11949.2,13.9 Million,40.0,1900.0,Denver,CO,2014.0,nuleafnaturals.com
+12,Urgently,Logistics & Transportation,11632.9,30.3 Million,226.0,1155.6,VIenna,VA,2013.0,geturgently.com
+13,nutpods,Food & Beverage,11622.5,19.1 Million,23.0,666.7,Bellevue,WA,2013.0,http://nutpods.com
+14,YieldStreet,Financial Services,10561.7,19.1 Million,66.0,560.0,New York,NY,2015.0,http://yieldstreet.com
+15,MuteSix,Advertising & Marketing,10175.8,17.3 Million,109.0,1262.5,Los Angeles,CA,2014.0,http://mutesix.com
+16,Anchor Worldwide,Advertising & Marketing,9753.2,10.7 Million,110.0,3566.7,New York,NY,2015.0,anchorww.com
+17,LendingPoint,Financial Services,9265.2,105.8 Million,190.0,493.8,Kennesaw,GA,2014.0,lendingpoint.com
+18,With Clarity,Consumer Products & Services,9179.3,19 Million,14.0,600.0,New York,NY,2013.0,http://withclarity.com
+19,Sonendo,Health,8657.0,24.4 Million,191.0,189.4,Laguna Hills,CA,2006.0,sonendo.com
+20,Kindred Bravely,Consumer Products & Services,8544.0,9.6 Million,35.0,1650.0,Oceanside,CA,2015.0,http://kindredbravely.com
+21,Tailor Made Compounding,Health,8327.1,10.2 Million,45.0,4400.0,Nicholasville,KY,2015.0,http://tailormadecompounding.com
+22,SD3IT,Computer Hardware,8282.9,11.9 Million,12.0,500.0,The Villages,FL,2014.0,http://sd3it.com
+23,ConvertKit,Software,7966.0,13.8 Million,37.0,270.0,Boise,ID,2013.0,convertkit.com
+24,Printify,Software,7926.4,10.5 Million,70.0,1300.0,San Francisco,CA,2015.0,http://printify.com
+25,Awardco,Software,7478.1,8.9 Million,42.0,2000.0,Orem,UT,2015.0,http://award.co
+26,Pegasus Optimization Managers,Energy,7426.8,128.2 Million,191.0,1264.3,College Station,TX,2015.0,pegasus15.com
+27,FITT Scientific,Government Services,7329.4,15.8 Million,191.0,2628.6,Colonial Heights,VA,2013.0,fittscientific.com
+28,Amherst Madison,Real Estate,7301.3,7.8 Million,8.0,700.0,Boise,ID,2014.0,amherstmadisonlegacy.com
+29,LumenAd,Software,7045.4,11.8 Million,60.0,1900.0,Missoula,MT,2014.0,lumenad.com
+30,Bendcare,Health,6900.3,156 Million,37.0,516.7,Boca Raton,FL,2015.0,bendcare.com
+31,The Welfont Companies,Real Estate,6871.0,20.4 Million,51.0,45.7,Tampa,FL,2014.0,welfont.com
+32,Skinny Dipped,Consumer Products & Services,6641.7,10.2 Million,21.0,425.0,Seattle,WA,2013.0,http://skinnydipped.com
+33,RDI Technologies,Manufacturing,6492.8,7.2 Million,21.0,600.0,Knoxville,TN,2013.0,rditechnologies.com
+34,Limited Run Games,Media,6388.4,20.8 Million,21.0,250.0,Apex,NC,2010.0,limitedrungames.com
+35,SwanLeap,Logistics & Transportation,6382.9,162.6 Million,38.0,192.3,Madison,WI,2013.0,swanleap.com
+36,Vesta Modular,Construction,6337.3,48.9 Million,52.0,2500.0,Southfield,MI,2014.0,http://vestamodular.com
+37,H&C Animal Health,Consumer Products & Services,6287.5,24 Million,11.0,120.0,Parker,CO,2013.0,hc-animal-health.com
+38,Homesnap,Real Estate,6176.7,17.5 Million,85.0,240.0,Bethesda,MD,2012.0,homesnap.com
+39,Paradigm Construction,Construction,6145.5,45.2 Million,27.0,285.7,The Woodlands,TX,2013.0,paradigmconstruction-tx.com
+40,Allata,IT System Development,6134.4,15.2 Million,71.0,7000.0,Dallas,TX,2014.0,allata.com
+41,Fanchest,Retail,6055.9,8.3 Million,13.0,550.0,New York,NY,2014.0,http://fanchest.com
+42,Fund That Flip,Real Estate,6017.9,6.4 Million,41.0,720.0,New York,NY,2014.0,http://fundthatflip.com
+43,Villaway,Travel & Hospitality,5935.7,7 Million,15.0,1400.0,Los Angeles,CA,2014.0,http://villaway.com
+44,IQM,Advertising & Marketing,5852.2,8.8 Million,40.0,233.3,New York,NY,2014.0,http://iqm.com
+45,Home Quality Remodeling,Construction,5835.4,6.2 Million,10.0,400.0,Concord,CA,2004.0,homequalityremodeling.com
+46,Beeswax,Software,5768.2,16.9 Million,56.0,700.0,New York,NY,2014.0,http://beeswax.com
+47,Netizen,Security,5638.4,6.3 Million,46.0,820.0,Allentown,PA,2013.0,http://netizencorp.com
+48,phData,IT Management,5638.0,9.8 Million,86.0,2766.7,Minneapolis,MN,2014.0,phdata.io
+49,MDstaffers,Health,5634.3,7.1 Million,22.0,266.7,Rancho Cordova,CA,2010.0,http://mdstaffers.com
+50,TalEx,Human Resources,5484.4,48.5 Million,500.0,614.3,Clarksburg,MD,2012.0,teamtalex.com
+51,Nationwide Mortgage Bankers,Financial Services,5449.6,25 Million,400.0,9900.0,Melville,NY,2011.0,nmbhome.com
+52,Podium,Software,5416.9,42.5 Million,430.0,2429.4,Lehi,UT,2014.0,podium.com
+53,SIA Solutions,Environmental Services,5059.6,23.9 Million,60.0,757.1,Houston,TX,2012.0,http://siasolutions.com
+54,QEO Group,Insurance,4978.3,58.8 Million,87.0,335.0,Irving,TX,2014.0,qeo.com
+55,Dropified,Business Products & Services,4971.5,5.1 Million,30.0,1400.0,Birmingham,AL,2015.0,dropified.com
+56,Sparx Hockey,Consumer Products & Services,4916.2,8 Million,25.0,212.5,Acton,MA,2014.0,sparxhockey.com
+57,TrueChoicePack,Consumer Products & Services,4908.4,7.8 Million,7.0,75.0,Mason,OH,2013.0,http://truechoicepack.com
+58,Ooze Wholesale,Consumer Products & Services,4899.0,25.9 Million,30.0,400.0,Oak Park,MI,2015.0,http://oozewholesale.com
+59,Progyny,Health,4838.0,107.6 Million,116.0,65.7,New York,NY,2008.0,http://progyny.com
+60,Pax8,Software,4820.3,42.4 Million,254.0,916.0,Greenwood Village,CO,2012.0,pax8.com
+61,Terminus,Software,4730.1,21.5 Million,162.0,671.4,Atlanta,GA,2014.0,http://terminus.com
+62,Chomps,Food & Beverage,4469.2,21 Million,8.0,700.0,Naples,FL,2012.0,chomps.com
+63,Rad Power Bikes,Manufacturing,4442.2,44.6 Million,100.0,3233.3,Seattle,WA,2007.0,radpowerbikes.com
+64,TradePending,Software,4430.1,5.8 Million,28.0,833.3,Chapel Hill,NC,2014.0,tradepending.com
+65,West Creek Financial,Financial Services,4405.2,89.7 Million,158.0,3850.0,Glen Allen,VA,2014.0,http://westcreekfin.com
+66,CityLift Parking,Construction,4401.9,10.7 Million,40.0,700.0,Oakland,CA,2015.0,cityliftparking.com
+67,Associated Veterans,Government Services,4345.8,12.8 Million,64.0,6300.0,Arlington,VA,2007.0,associatedveterans.com
+68,Fetch Rewards,Software,4322.6,9 Million,63.0,103.2,Madison,WI,2013.0,fetchrewards.com
+69,10X Genomics,Health,4308.7,146.3 Million,380.0,245.5,Pleasanton,CA,2012.0,10xgenomics.com
+70,4th & Heart,Food & Beverage,4283.3,14.3 Million,7.0,40.0,Venice Beach,CA,2014.0,http://fourthandheart.com
+71,GreenPrint,Energy,4281.4,6.2 Million,13.0,85.7,Atlanta,GA,2014.0,http://greenprintcorp.com
+72,Sky Marketing Corporation,Consumer Products & Services,4279.8,4.7 Million,30.0,900.0,Austin,TX,2015.0,smcdistribution.com
+73,Pendo,Software,4266.8,20.9 Million,258.0,821.4,Raleigh,NC,2013.0,pendo.io
+74,Core Software Technologies,Software,4246.8,4.6 Million,39.0,3800.0,Plainsboro,NJ,2011.0,coresofttech.com
+75,EcoSystems,Environmental Services,4233.7,6.7 Million,36.0,1700.0,Miami,FL,2012.0,ecosystems.com
+76,Brickell Men's Products,Health,4207.9,10 Million,35.0,1650.0,Portland,ME,2014.0,brickellmensproducts.com
+77,Patton Warehousing,Logistics & Transportation,4138.1,8.2 Million,78.0,609.1,Milton,PA,2015.0,pattonwarehousing.com
+78,SydanTech,Government Services,4090.7,4.3 Million,14.0,1300.0,Bethesda,MD,2000.0,sydantech.com
+79,WT Stevens Construction,Construction,4089.7,7.2 Million,40.0,566.7,Flint,MI,2002.0,http://wtstevens.com
+80,Wandrd,Consumer Products & Services,4088.0,4.7 Million,12.0,500.0,Orem,UT,2015.0,http://wandrd.com
+81,Confidio,Health,4035.2,16.3 Million,38.0,375.0,Towson,MD,2014.0,confidio.com
+82,Dynamic Logistix,Logistics & Transportation,3839.8,54.4 Million,50.0,1150.0,Overland Park,KS,2015.0,dynamiclogistix.com
+83,Asset Panda,Software,3778.5,5.1 Million,50.0,233.3,Frisco,TX,2012.0,http://assetpanda.com
+83,SeaBay Building Group,Construction,3775.1,25.8 Million,25.0,733.3,Hayward,CA,2013.0,seabay-group.com
+84,Blue Fire Leads,Advertising & Marketing,3727.5,9 Million,13.0,30.0,Provo,UT,2014.0,http://bluefireleads.com/home
+85,Loanatik,Financial Services,3692.4,9 Million,19.0,533.3,Phoenix,AZ,2015.0,loanatik.com
+86,SupportNinja,Business Products & Services,3683.7,4.5 Million,463.0,2004.5,Austin,TX,2015.0,http://supportninja.com
+87,Grove Collaborative,Consumer Products & Services,3665.1,104.1 Million,1200.0,3900.0,San Francisco,CA,2012.0,http://grove.co
+88,Cisoshare,Security,3623.1,3.9 Million,25.0,733.3,San Juan Capistrano,CA,2015.0,http://cisoshare.com
+89,DigitalOnUS,IT System Development,3534.8,10.4 Million,178.0,1518.2,San Jose,CA,2015.0,digitalonus.com
+90,GForce Life Sciences,Human Resources,3531.6,14.4 Million,49.0,1125.0,Chicago,IL,2013.0,gforcelifesciences.com
+91,Capitol Bridge,Government Services,3469.4,6.4 Million,35.0,600.0,Arlington,VA,2012.0,capitolbridgellc.com
+92,Kentucky Counseling Center,Health,3417.6,4.9 Million,19.0,1800.0,LOUISVILLE,KY,2014.0,kentuckycounselingcenter.com
+93,Shefit,Retail,3399.5,6.6 Million,25.0,733.3,Hudsonville,MI,2013.0,shefit.com
+94,US Mobile,Telecommunications,3387.7,7.3 Million,65.0,828.6,White Plains,NY,2014.0,usmobile.com
+95,Feedonomics,Advertising & Marketing,3371.0,7.4 Million,85.0,8400.0,Woodland Hills,CA,2014.0,feedonomics.com
+96,Amenity Health,Health,3357.7,15.3 Million,16.0,100.0,San Diego,CA,2011.0,amenityhealth.com
+97,Payability,Financial Services,3350.0,13.7 Million,54.0,440.0,New York,NY,2014.0,http://payability.com
+98,Eagle Transport and Logistics,Logistics & Transportation,3339.6,4.8 Million,35.0,3400.0,Columbus,OH,2014.0,theeagletransport.com
+99,ShipBob,Logistics & Transportation,3325.7,34.2 Million,450.0,1700.0,Chicago,IL,2014.0,shipbob.com

@@ -1,0 +1,1704 @@
+place,company_count,median_growth
+"New York, NY",164,214.8
+"Chicago, IL",110,184.6
+"Atlanta, GA",101,162.2
+"Austin, TX",87,178.6
+"Houston, TX",83,157.5
+"Dallas, TX",72,125.3
+"San Diego, CA",71,186.0
+"San Francisco, CA",52,255.9
+"Los Angeles, CA",51,205.6
+"Denver, CO",48,189.3
+"Tampa, FL",45,224.6
+"Miami, FL",39,180.2
+"Washington, DC",37,159.3
+"Charlotte, NC",36,221.2
+"Seattle, WA",35,243.9
+"Minneapolis, MN",35,138.2
+"Boston, MA",33,228.5
+"Arlington, VA",33,209.0
+"Portland, OR",32,123.5
+"Phoenix, AZ",31,135.9
+"Richmond, VA",28,147.6
+"Philadelphia, PA",27,152.6
+"Orlando, FL",26,190.6
+"Indianapolis, IN",26,167.5
+"Irvine, CA",25,115.0
+"Huntsville, AL",24,177.9
+"Alpharetta, GA",23,207.9
+"Scottsdale, AZ",23,150.4
+"Salt Lake City, UT",23,133.3
+"Cincinnati, OH",22,142.4
+"Las Vegas, NV",22,193.4
+"Brooklyn, NY",21,186.9
+"San Antonio, TX",20,150.9
+"Jacksonville, FL",20,127.8
+"Plano, TX",20,119.6
+"Boca Raton, FL",19,130.3
+"Reston, VA",19,151.3
+"Fort Lauderdale, FL",19,167.8
+"Nashville, TN",19,82.4
+"Raleigh, NC",19,215.0
+"Fairfax, VA",18,130.2
+"Lehi, UT",18,176.8
+"McLean, VA",18,207.3
+"Louisville, KY",18,105.2
+"Herndon, VA",18,125.0
+"Omaha, NE",17,121.5
+"Columbus, OH",17,238.5
+"Birmingham, AL",16,128.8
+"Cleveland, OH",16,93.0
+"St. Louis, MO",16,96.5
+"San Jose, CA",16,209.4
+"Vienna, VA",16,141.0
+"Irving, TX",15,157.1
+"Santa Monica, CA",15,256.8
+"Baltimore, MD",14,291.2
+"Clearwater, FL",14,423.9
+"Santa Ana, CA",14,118.9
+"Rockville, MD",14,371.0
+"Newport Beach, CA",13,192.1
+"Virginia Beach, VA",13,180.6
+"Alexandria, VA",13,123.9
+"Grand Rapids, MI",13,172.6
+"Sterling, VA",13,122.6
+"Boulder, CO",13,181.3
+"Pittsburgh, PA",12,182.8
+"Baton Rouge, LA",12,116.8
+"Tempe, AZ",12,163.4
+"Frisco, TX",12,244.9
+"El Segundo, CA",12,125.1
+"Greenville, SC",11,123.9
+"Brentwood, TN",11,345.2
+"Rochester, NY",11,163.3
+"Schaumberg, IL",11,107.6
+"Franklin, TN",11,86.7
+"Oakland, CA",11,736.1
+"Overland Park, KS",11,138.4
+"Fort Worth, TX",11,162.1
+"Santa Clara, CA",11,228.6
+"Bellevue, WA",11,195.2
+"Sacramento, CA",11,141.3
+"Colorado Springs, CO",10,199.4
+"Chattanooga, TN",10,364.5
+"Carlsbad, CA",10,192.1
+"Dublin, OH",10,142.4
+"Charleston, SC",10,191.6
+"Kansas City, MO",10,136.2
+"Culver City, CA",9,167.7
+"Englewood, CO",9,130.8
+"Chandler, AZ",9,113.5
+"Springfield, MO",9,96.8
+"Waltham, MA",9,119.0
+"Costa Mesa, CA",9,181.7
+"Madison, WI",9,195.8
+"Mesa, AZ",9,189.2
+"King of Prussia, PA",9,109.5
+"Lancaster, PA",8,352.2
+"Fargo, ND",8,217.8
+"Naples, FL",8,159.8
+"Durham, NC",8,157.7
+"Norcross, GA",8,120.4
+"Memphis, TN",8,123.0
+"Leesburg, VA",8,258.6
+"Marietta, GA",8,178.3
+"Tulsa, OK",8,175.7
+"Fort Myers, FL",8,172.9
+"Roswell, GA",8,128.6
+"Sandy, UT",8,180.5
+"Redmond, WA",7,178.2
+"Sioux Falls, SD",7,142.0
+"Addison, TX",7,140.3
+"Glen Allen, VA",7,152.5
+"Duluth, GA",7,110.9
+"Centennial, CO",7,187.6
+"Cary, NC",7,122.3
+"Walnut Creek, CA",7,240.8
+"Columbia, MD",7,101.0
+"Bethesda, MD",7,201.1
+"Pleasanton, CA",7,212.0
+"Gaithersburg, MD",7,485.4
+"Columbia, SC",7,108.4
+"Bozeman, MT",7,164.6
+"Boise, ID",7,1493.2
+"Greenbelt, MD",7,269.3
+"Orem, UT",7,526.8
+"Lincoln, NE",7,143.1
+"Knoxville, TN",6,312.2
+"Littleton, CO",6,176.0
+"Vancouver, WA",6,236.7
+"San Mateo, CA",6,221.9
+"Stamford, CT",6,141.8
+"Burlington, MA",6,69.2
+"Pompano Beach, FL",6,229.8
+"Sarasota, FL",6,230.3
+"Ashburn, VA",6,144.1
+"Lombard, IL",6,183.8
+"Metairie, LA",6,105.7
+"Lakewood, CO",6,258.8
+"Torrance, CA",6,99.1
+"West Palm Beach, FL",6,174.8
+"Valencia, CA",6,199.1
+"West Chester, PA",6,137.2
+"Draper, UT",6,217.6
+"Milwaukee, WI",6,105.0
+"Henderson, NV",6,417.8
+"Winter Park, FL",6,178.2
+"Ann Arbor, MI",6,101.4
+"Harrisburg, PA",5,66.8
+"Hoboken, NJ",5,537.8
+"Glendale, CA",5,230.9
+"Woodland Hills, CA",5,68.4
+"Greenwood Village, CO",5,670.6
+"Suwanee, GA",5,154.1
+"Albuquerque, NM",5,125.5
+"Allentown, PA",5,103.5
+"American Fork, UT",5,150.5
+"Deerfield Beach, FL",5,319.1
+"Allen, TX",5,106.7
+"Hayward, CA",5,535.5
+"Hauppauge, NY",5,180.0
+"Fort Wayne, IN",5,113.5
+"Oceanside, CA",5,195.7
+"Coral Springs, FL",5,206.2
+"Oak Brook, IL",5,95.4
+"Pasadena, CA",5,555.7
+"Fredericksburg, VA",5,80.5
+"Wilmington, DE",5,316.7
+"Solana Beach, CA",5,345.5
+"Poway, CA",5,257.3
+"Bellingham, WA",5,119.0
+"Roseville, CA",5,95.4
+"Buffalo, NY",5,182.1
+"Round Rock, TX",5,186.2
+"Silver Spring, MD",5,1220.2
+"Saint Louis, MO",5,179.5
+"Portland, ME",5,177.3
+"Provo, UT",5,309.4
+"Doral, FL",5,102.8
+"New Orleans, LA",5,224.5
+"Naperville, IL",5,132.4
+"Chantilly, VA",5,86.6
+"Evanston, IL",5,290.4
+"Troy, MI",5,123.9
+"Temecula, CA",5,193.9
+"Tucson, AZ",5,121.4
+"Des Moines, IA",5,164.8
+"Laguna Hills, CA",5,159.0
+"Oklahoma City, OK",5,107.3
+"Richardson, TX",4,117.8
+"Pleasant Grove, UT",4,133.6
+"Broomfield, CO",4,158.5
+"Redwood City, CA",4,204.8
+"Princeton, NJ",4,93.1
+"Arlington Heights, IL",4,199.6
+"Greensboro, NC",4,153.6
+"Woburn, MA",4,73.9
+"Eagan, MN",4,103.5
+"Fort Washington, PA",4,69.5
+"Anaheim, CA",4,249.8
+"San Marcos, CA",4,120.3
+"Santa Barbara, CA",4,143.7
+"Syracuse, NY",4,360.8
+"Rocklin, CA",4,94.6
+"South Jordan, UT",4,236.1
+"Sugar Land, TX",4,127.8
+"Rolling Meadows, IL",4,101.3
+"Gilbert, AZ",4,220.6
+"Hamilton, NJ",4,207.3
+"Sherman Oaks, CA",4,105.7
+"Jersey City, NJ",4,160.2
+"Long Island City, NY",4,161.2
+"Mclean, VA",4,499.7
+"Longmont, CO",4,147.8
+"Cedar Rapids, IA",4,127.4
+"College Station, TX",4,144.9
+"Cerritos, CA",4,82.4
+"Newtown Square, PA",4,194.1
+"Conshohocken, PA",4,84.6
+"Kennesaw, GA",4,554.9
+"Itasca, IL",4,69.6
+"Covington, KY",4,68.0
+"Coral Gables, FL",4,538.8
+"Lakeland, FL",4,183.3
+"Lake Mary, FL",4,122.5
+"North Charleston, SC",4,181.3
+"El Dorado Hills, CA",4,212.7
+"Falls Church, VA",4,136.1
+"New York City, NY",4,160.8
+"Newark, NJ",4,122.4
+"Charlottesville, VA",4,412.7
+"Mobile, AL",4,104.5
+"Frederick, MD",4,126.1
+"Fremont, CA",4,98.9
+"Venice, CA",4,230.6
+"Foster City, CA",4,229.9
+"Beaverton, OR",4,125.7
+"Annapolis, MD",4,276.5
+"West Hollywood, CA",4,172.8
+"Wakefield, MA",4,97.8
+"Westlake, OH",4,221.6
+"West Des Moines, IA",4,75.2
+"Worcester, MA",3,121.8
+"Westerville, OH",3,144.7
+"Washington, D.C., DC",3,269.1
+"Walnut, CA",3,135.8
+"Van Nuys, CA",3,334.0
+"Tigard, OR",3,130.6
+"Towson, MD",3,403.7
+"Framingham, MA",3,67.9
+"Fresno, CA",3,140.4
+"Farmington, UT",3,179.1
+"Fishers, IN",3,498.3
+"Delray Beach, FL",3,98.6
+"Elmhurst, IL",3,88.8
+"Emerald Isle, NC",3,138.2
+"Exton, PA",3,114.9
+"Dumfries, VA",3,95.9
+"Woodstock, GA",3,99.8
+"Novato, CA",3,333.9
+"Mountain View, CA",3,150.1
+"Nashua, NH",3,282.0
+"Chapel Hill, NC",3,144.4
+"Chesterfield, MO",3,173.3
+"Cheyenne, WY",3,186.1
+"Minnetonka, MN",3,441.4
+"Mooresville, NC",3,321.5
+"Moorpark, CA",3,115.1
+"Meridian, ID",3,310.5
+"Miami Lakes, FL",3,101.8
+"Middle River, MD",3,662.3
+"Malvern, PA",3,79.7
+"Mason, OH",3,207.8
+"Loveland, CO",3,732.6
+"Livonia, MI",3,76.2
+"Long Beach, CA",3,733.4
+"Lorton, VA",3,95.8
+"Clive, IA",3,205.5
+"Plainsboro, NJ",3,704.4
+"Plainview, NY",3,203.0
+"Palm Harbor, FL",3,409.6
+"Palo Alto, CA",3,563.1
+"Park City, UT",3,167.6
+"Parker, CO",3,351.5
+"Ocala, FL",3,285.9
+"Odessa, FL",3,429.8
+"Orange, CA",3,64.3
+"Norfolk, VA",3,145.1
+"Calabasas, CA",3,230.4
+"Camarillo, CA",3,121.0
+"Campbell, CA",3,93.1
+"Canton, MA",3,124.3
+"Bronx, NY",3,133.9
+"Carmel, IN",3,94.2
+"La Jolla, CA",3,174.7
+"Lafayette, CA",3,105.6
+"Lafayette, CO",3,328.6
+"Lake Oswego, OR",3,297.2
+"Lake Forest, IL",3,159.8
+"Conroe, TX",3,244.8
+"Chino, CA",3,62.1
+"Iselin, NJ",3,208.4
+"Holly Springs, NC",3,100.1
+"Huntington Beach, CA",3,83.8
+"Rancho Cordova, CA",3,98.1
+"Plymouth, MN",3,71.1
+"Reno, NV",3,173.9
+"Portsmouth, NH",3,225.3
+"Peachtree Corners, GA",3,386.7
+"Pembroke Pines, FL",3,122.9
+"Pensacola, FL",3,89.0
+"Brunswick, OH",3,122.9
+"Buford, GA",3,120.7
+"Burbank, CA",3,78.3
+"Burlingame, CA",3,695.1
+"Blue Ash, OH",3,218.1
+"Blue Bell, PA",3,180.6
+"Santa Cruz, CA",3,109.8
+"Brea, CA",3,64.6
+"Riverside, CA",3,241.2
+"Tallahassee, FL",3,145.1
+"Springfield, VA",3,106.6
+"St Louis, MO",3,156.3
+"St Petersburg, FL",3,220.4
+"Stafford, TX",3,184.6
+"Stafford, VA",3,710.8
+"St. Petersburg, FL",3,136.8
+"Berkeley, CA",3,509.7
+"Beverly, MA",3,128.9
+"Bloomington, IN",3,189.5
+"Southfield, MI",3,465.5
+"Southlake, TX",3,183.3
+"Spokane, WA",3,279.7
+"Golden, CO",3,180.2
+"Grapevine, TX",3,84.5
+"Green Bay, WI",3,204.4
+"Greenville, NC",3,136.8
+"Ft. Lauderdale, FL",3,276.0
+"Fulton, MD",3,173.6
+"Dayton, OH",3,117.8
+"Gainesville, FL",3,296.9
+"Fort Lee, NJ",3,336.4
+"Augusta, GA",3,66.9
+"Eden Prairie, MN",3,75.8
+"Aurora, IL",3,103.9
+"Agoura Hills, CA",3,118.9
+"Arlington, TX",3,128.9
+"Akron, OH",3,98.9
+"The Woodlands, TX",2,3285.4
+"Grand Prairie, TX",2,188.5
+"Marlton, NJ",2,1348.0
+"Manhattan Beach, CA",2,169.0
+"RIVERSIDE, CA",2,213.6
+"Grants Pass, OR",2,442.5
+"Terre Haute, IN",2,162.9
+"Valley Stream, NY",2,1003.3
+"Brunswick, ME",2,640.8
+"Venice Beach, CA",2,2264.9
+"Venice, FL",2,123.8
+"Ft Worth, TX",2,104.3
+"Manalapan, NJ",2,137.6
+"Manassas, VA",2,328.8
+"Red Bank, NJ",2,1119.9
+"Midland, TX",2,328.5
+"Midvale, UT",2,76.9
+"Tysons, VA",2,314.3
+"Rancho Cucamonga, CA",2,134.0
+"Saint Augustine, FL",2,775.6
+"High Point, NC",2,92.5
+"Taylor, MI",2,84.5
+"Madison, CT",2,139.5
+"Hialeah, FL",2,109.5
+"HAUPPAUGE, NY",2,865.0
+"Guilderland Center, NY",2,145.6
+"Suffern, NY",2,966.0
+"Rockford, MI",2,154.5
+"Glendale Heights, IL",2,176.7
+"Loveland, OH",2,60.1
+"Haltom City, TX",2,467.9
+"Matthews, NC",2,86.3
+"Mayfield Heights, OH",2,103.1
+"Hartford, CT",2,368.5
+"Toledo, OH",2,310.7
+"Tomball, TX",2,401.5
+"Hampton, VA",2,105.7
+"McKinney, TX",2,147.8
+"Los Gatos, CA",2,68.1
+"Post Falls, ID",2,673.6
+"Tustin, CA",2,527.6
+"Fort Mill, SC",2,163.5
+"Montgomery, TX",2,62.8
+"Forest Hill, MD",2,112.9
+"Warner Robins, GA",2,128.0
+"Fort Smith, AR",2,131.0
+"Franklin, MA",2,93.8
+"Rapid City, SD",2,324.3
+"Missoula, MT",2,3564.5
+"Modesto, CA",2,118.9
+"Waco, TX",2,197.0
+"Vista, CA",2,145.8
+"Buffalo Grove, IL",2,107.3
+"Farmers Branch, TX",2,160.5
+"Fairlawn, OH",2,124.5
+"Fairhope, AL",2,806.4
+"Vernon Hills, IL",2,127.1
+"Foxborough, MA",2,232.5
+"Milford, IA",2,194.2
+"Milford, OH",2,313.2
+"Miami Beach, FL",2,828.0
+"Danbury, CT",2,113.6
+"Richfield, OH",2,104.1
+"Davie, FL",2,122.2
+"Medina, OH",2,294.0
+"Beavercreek, OH",2,80.3
+"Melbourne, FL",2,787.7
+"Morrisville, NC",2,193.4
+"Columbia, MO",2,91.9
+"Melville, NY",2,2778.5
+"Plymouth, MA",2,242.0
+"GREENVILLE, SC",2,204.4
+"Plymouth Meeting, PA",2,467.6
+"Medford, MA",2,499.1
+"Batavia, IL",2,553.0
+"Bakersfield, CA",2,63.4
+"Morgantown, WV",2,263.2
+"Bedford, MA",2,473.3
+"Latham, NY",2,134.6
+"Saratoga Springs, NY",2,141.2
+"Kirkland, WA",2,350.5
+"Lawndale, CA",2,83.0
+"Santa Clarita, CA",2,484.1
+"Layton, UT",2,226.8
+"Spokane Valley, WA",2,388.1
+"Landover, MD",2,114.2
+"Highlands Ranch, CO",2,169.8
+"Lansing, MI",2,735.5
+"Royal Oak, MI",2,890.3
+"Southampton, PA",2,207.9
+"Indian Trail, NC",2,203.0
+"Independence, OH",2,211.1
+"Largo, FL",2,151.7
+"Largo, MD",2,234.8
+"Concord, MA",2,160.6
+"Concord, CA",2,2955.8
+"South Plainfield, NJ",2,1385.8
+"Simpsonville, SC",2,868.1
+"Lake Elsinore, CA",2,115.0
+"Lahaina, HI",2,167.6
+"Laguna Niguel, CA",2,279.3
+"Lake in the Hills, IL",2,77.3
+"Lafayette, LA",2,827.5
+"Saint Peters, MO",2,350.1
+"Saint Paul, MN",2,328.9
+"San Luis Obispo, CA",2,1051.2
+"San Rafael, CA",2,78.6
+"La Mirada, CA",2,145.4
+"San Juan Capistrano, CA",2,1859.5
+"Kaysville, UT",2,156.3
+"San Carlos, CA",2,219.4
+"Leawood, KS",2,761.2
+"Killeen, TX",2,169.8
+"Kernersville, NC",2,144.2
+"San Ramon, CA",2,161.0
+"Santa Rosa, CA",2,366.1
+"San Juan, PR",2,1109.6
+"Little Rock, AR",2,364.6
+"Hopkinton, MA",2,177.8
+"Hoover, AL",2,107.9
+"Strongsville, OH",2,125.1
+"Hudson, OH",2,187.8
+"Statesville, NC",2,329.2
+"Lemont, IL",2,70.9
+"Idaho Falls, ID",2,546.1
+"Lenexa, KS",2,85.4
+"Commerce, CA",2,116.6
+"St. George, UT",2,117.4
+"Huntersville, NC",2,271.8
+"Lexington Park, MD",2,79.3
+"Lexington, KY",2,319.0
+"Spring, TX",2,204.0
+"Henrico, VA",2,100.5
+"Hendersonville, TN",2,133.3
+"Hendersonville, NC",2,132.7
+"Macon, GA",2,104.9
+"St. Charles, MO",2,466.7
+"Centerville, UT",2,277.6
+"Bothell, WA",2,596.6
+"Bohemia, NY",2,106.5
+"Brandon, FL",2,209.4
+"Boynton Beach, FL",2,185.1
+"Bowie, MD",2,165.3
+"Bethlehem, PA",2,284.1
+"Beverly Hills, CA",2,251.2
+"Islandia, NY",2,220.0
+"SAN JOSE, CA",2,156.7
+"Johns Creek, GA",2,164.7
+"Jenks, OK",2,190.7
+"Katy, TX",2,193.4
+"Berwyn, IL",2,1053.5
+"Lakewood, NJ",2,137.8
+"Lakewood, OH",2,77.8
+"SANFORD, FL",2,1079.5
+"Holmdel, NJ",2,373.4
+"Hollywood, FL",2,103.5
+"Bend, OR",2,179.6
+"Wyomissing, PA",2,84.8
+"Perrysburg, OH",2,141.2
+"Cumming, GA",2,118.7
+"Cypress, TX",2,204.3
+"Newnan, GA",2,246.9
+"Oakbrook Terrace, IL",2,83.6
+"tulsa, OK",2,125.2
+"Norman, OK",2,121.0
+"Albany, NY",2,85.7
+"Nappanee, IN",2,293.2
+"Oak Ridge, TN",2,71.6
+"Denton, TX",2,145.8
+"Amarillo, TX",2,108.1
+"North Billerica, MA",2,83.7
+"Waukesha, WI",2,242.2
+"Dubuque, IA",2,133.6
+"North Hollywood, CA",2,1088.5
+"Oak Park, IL",2,182.9
+"Watertown, MA",2,112.0
+"Downers Grove, IL",2,352.2
+"Downingtown, PA",2,101.1
+"Burnsville, MN",2,59.3
+"Renton, WA",2,380.9
+"North Andover, MA",2,167.8
+"Mount Pleasant, SC",2,927.9
+"Westlake Village, CA",2,148.9
+"Norwalk, CT",2,1451.6
+"Paramus, NJ",2,251.3
+"Evergreen, CO",2,374.6
+"White Plains, NY",2,1744.1
+"West Jordan, UT",2,220.5
+"Wheat Ridge, CO",2,85.2
+"Plant City, FL",2,93.4
+"Northbrook, IL",2,175.1
+"York, PA",2,189.0
+"orlando, FL",2,1152.4
+"Philipsburg, PA",2,127.9
+"Mt Pleasant, SC",2,709.9
+"O'Fallon, IL",2,287.4
+"Owings Mills, MD",2,65.7
+"Parsippany, NJ",2,74.3
+"Weston, FL",2,250.2
+"Mt. Pleasant, SC",2,118.4
+"Pine Brook, NJ",2,215.1
+"Piscataway, NJ",2,719.6
+"Edina, MN",2,75.8
+"athens, GA",2,424.5
+"Wichita, KS",2,66.5
+"Westwood, MA",2,105.3
+"Chambersburg, PA",2,245.4
+"Chesapeake, VA",2,86.8
+"Castle Rock, CO",2,86.4
+"ALPHARETTA, GA",2,420.2
+"CEDAR PARK, TX",2,290.1
+"Oldsmar, FL",2,181.2
+"Chatsworth, CA",2,173.7
+"Newark, CA",2,176.5
+"Folsom, CA",2,180.4
+"Auburn, AL",2,339.9
+"Newton, MA",2,136.0
+"Asheville, NC",2,89.3
+"Vineland, NJ",2,99.9
+"New Port Richey, FL",2,125.2
+"Burlington, VT",2,116.4
+"Farmington Hills, MI",2,80.9
+"Edmond, OK",2,526.6
+"Farmington, MI",2,73.9
+"Fayetteville, AR",2,381.8
+"Fayetteville, NC",2,98.0
+"New Haven, CT",2,639.0
+"Newark, DE",2,106.6
+"Brookhaven, GA",2,1093.9
+"Woods Cross, UT",2,313.5
+"Des Plaines, IL",2,111.7
+"Carrollton, TX",2,149.1
+"Orange Park, FL",2,179.8
+"Aurora, CO",2,214.6
+"Newport, KY",2,96.6
+"memphis, TN",2,242.9
+"Amherst, NY",2,1296.4
+"Elk Grove Village, IL",2,175.8
+"Aventura, FL",2,535.3
+"Elgin, IL",2,133.6
+"Wilmington, NC",2,1077.7
+"North Kansas City, MO",2,1021.1
+"Palmer, TX",1,145.1
+"Belleville, NJ",1,904.4
+"Oxnard, CA",1,133.3
+"Bellmawr, NJ",1,137.0
+"Pacifica, CA",1,290.0
+"PALM HARBOR, FL",1,242.0
+"SAFETY HARBOR, FL",1,117.5
+"STANTON, CA",1,55.0
+"Belmont, CA",1,160.8
+"Beltsville, MD",1,122.9
+"ST PETERSBURG, FL",1,70.0
+"POST FALLS, ID",1,134.6
+"SHAWNEE, KS",1,576.3
+"SAN CLEMENTE, CA",1,1901.2
+"SAN GABRIEL, CA",1,987.0
+"Palatine, IL",1,66.2
+"Palm Bay, FL",1,366.7
+"SF, CA",1,500.6
+"Pasadena, MD",1,278.7
+"SARASOTA, FL",1,66.6
+"SANTA ANA, CA",1,245.4
+"Rosharon, TX",1,305.3
+"SOUTH HOLLAND, IL",1,161.1
+"SAN ANTONIO, TX",1,81.9
+"SAINT PETERSBURG, FL",1,88.1
+"Park CIty, UT",1,59.4
+"ST LOUIS, MO",1,843.1
+"Palm Desert, CA",1,165.7
+"Parsippany-Troy Hills, NJ",1,2095.6
+"Rutherfordton, NC",1,156.3
+"Sanford, FL",1,104.1
+"Santa Fe Springs, CA",1,67.2
+"Ogden, UT",1,379.0
+"San Marino, CA",1,416.1
+"Ofallon, MO",1,65.9
+"Ocean, NJ",1,142.3
+"Ocean City, NJ",1,99.7
+"Sandusky, OH",1,60.7
+"Ontario, CA",1,60.2
+"Sandy Springs,, GA",1,531.2
+"Bon Aqua, TN",1,135.2
+"Olivette, MO",1,480.7
+"Nokomis, FL",1,205.3
+"Noblesville, IN",1,2248.5
+"Saint Petersburg, FL",1,52.4
+"Nicholasville, KY",1,8327.1
+"Salem, NH",1,168.8
+"Newtown, CT",1,703.5
+"CENTENNIAL, CO",1,102.3
+"Saline, MI",1,53.5
+"Salisbury, MD",1,66.5
+"Campbell Hall, NY",1,60.3
+"Camden, NJ",1,419.6
+"Olympia, WA",1,53.1
+"OWOSSO, MI",1,219.4
+"Brandon, SD",1,384.5
+"OVERLAND PARK, KS",1,120.8
+"OMAHA, NE",1,117.8
+"Breckenridge, CO",1,1047.2
+"Brecksville, OH",1,201.9
+"Brick, NJ",1,94.6
+"Bridgeport, PA",1,182.8
+"Bridgeport, WV",1,122.9
+"Bountiful, UT",1,96.2
+"Nutley, NJ",1,80.9
+"Bradenton, FL",1,376.4
+"Olathe, KS",1,106.7
+"Branchburg, NJ",1,87.5
+"Novi, MI",1,56.4
+"Oakwood Village, OH",1,110.3
+"Bolingbrook, IL",1,1323.3
+"Boothwyn, PA",1,64.2
+"Oakland Park, FL",1,57.1
+"Bloomsburg, PA",1,93.8
+"Rosslyn, VA",1,490.2
+"Oakdale, PA",1,79.8
+"Roy, UT",1,360.3
+"Oak Park, MI",1,4899.0
+"Ruston, LA",1,55.8
+"Braintree, MA",1,159.7
+"Burtonsville, MD",1,104.8
+"Porter Ranch, CA",1,115.3
+"Porter, TX",1,82.6
+"Portersville, PA",1,157.5
+"Burr Ridge, IL",1,64.5
+"Pleasantville, NY",1,90.3
+"Please Select, LA",1,998.0
+"Bluffton, SC",1,127.7
+"Bluffdale, UT",1,405.0
+"Blue Springs, MO",1,248.2
+"Renson, CA",1,99.2
+"Silverado, CA",1,617.5
+"Blue Mounds, WI",1,72.1
+"Richmond, TX",1,107.9
+"Rhome, TX",1,353.2
+"Paso Robles, CA",1,163.8
+"Philadephia, PA",1,139.9
+"Pflugerville, TX",1,63.8
+"Pewaukee, WI",1,147.5
+"Ranson, WV",1,272.8
+"Petroleum, IN",1,100.1
+"Petoskey, MI",1,61.0
+"Reading, PA",1,158.1
+"Redondo Beach, CA",1,1255.0
+"Redwood Shores, CA",1,315.7
+"Perry Hall, MD",1,966.2
+"ROYAL OAK, MI",1,552.5
+"Racine, WI",1,156.5
+"Rhinebeck, NY",1,134.0
+"Brossard, LA",1,856.8
+"Brookston, TX",1,140.5
+"Buellton, CA",1,251.9
+"Buena Park, CA",1,101.6
+"Brisbane, CA",1,70.1
+"Peabody, MA",1,85.7
+"Pearland, TX",1,784.3
+"Pennsauken, NJ",1,73.0
+"Pensacola, FL, FL",1,135.4
+"Prattville, AL",1,300.0
+"Princeton, IL",1,69.5
+"Burlington, NJ",1,115.4
+"Buhler, KS",1,85.6
+"Port Washington, NY",1,54.2
+"CARMEL, IN",1,338.9
+"Pueblo, CO",1,130.2
+"Purcellville, VA",1,272.1
+"Quakertown, PA",1,66.2
+"CALHOUN, GA",1,54.8
+"Portsmouth, VA",1,104.3
+"Poseyville, IN",1,181.3
+"CA, CA",1,147.9
+"Potomac, MD",1,163.2
+"Pottstown, PA",1,57.2
+"Powell, TN",1,245.5
+"Port Huron, MI",1,88.3
+"Port Vincent, LA",1,130.5
+"Butler, PA",1,235.0
+"Prospect, KY",1,1447.5
+"Riverside, CT",1,98.4
+"Riverton, UT",1,191.7
+"Roanoke, TX",1,255.3
+"Roanoke, VA",1,137.5
+"Rochelle Park, NJ",1,104.6
+"Rochester, MI",1,656.0
+"Oshkosh, WI",1,111.0
+"Rochester, MN",1,89.5
+"Rochester, NH",1,69.5
+"Richland, WA",1,1488.4
+"Richmond, CA",1,116.4
+"Ridgeland, MS",1,91.4
+"River Falls, WI",1,110.8
+"Radnor, PA",1,66.8
+"STEVENSON RANCH, CA",1,216.0
+"Safety Harbor, FL",1,122.3
+"Orrville, OH",1,80.3
+"PORTSMOUTH, NH",1,121.4
+"PORTAGE, MI",1,813.1
+"PHOENIX, AZ",1,69.4
+"Saint Charles, IL",1,249.8
+"PENSACOLA, FL",1,3051.3
+"Saint Charles, MO",1,72.6
+"Saint George, UT",1,73.5
+"Saint Louis Park, MN",1,55.4
+"PENN VALLEY, CA",1,100.4
+"PASADENA, CA",1,331.3
+"SANTA CRUZ, CA",1,395.8
+"River Heights, UT",1,82.8
+"Pikesville, MD",1,229.1
+"Ramsey, MN",1,140.6
+"Phoenix, OR",1,175.2
+"Rancho Santa Fe, CA",1,592.3
+"Queensbury, NY",1,66.6
+"Quincy, MA",1,68.6
+"Phoenix, IL",1,111.5
+"RENO, NV",1,216.5
+"ROCHESTER, NY",1,71.3
+"ROCKVILLE, MD",1,79.1
+"RONKONKOMA, NY",1,52.6
+"Plantation, FL",1,267.4
+"ROSEMEAD, CA",1,308.7
+"Rockland, ME",1,119.1
+"Rocky River, OH",1,81.2
+"Plainfield, IL",1,117.7
+"Roseburg, OR",1,333.3
+"Roselle, IL",1,59.2
+"Plain City, OH",1,1661.7
+"Pittsford, NY",1,75.0
+"Rosemont, IL",1,76.3
+"Oxford, CT",1,400.5
+"Owosso, MI",1,69.8
+"Rock Hill, SC",1,115.6
+"Rock Island, IL",1,251.1
+"Rockford, IL",1,73.1
+"Rockland, MA",1,159.4
+"Oviedo, FL",1,117.2
+"Rockwall, TX",1,190.9
+"Waterville, ME",1,490.0
+"West Chester, OH",1,86.1
+"West Bloomfield, MI",1,56.0
+"West Bend, WI",1,128.8
+"West Babylon, NY",1,214.1
+"Wenatchee, WA",1,354.6
+"Webster, TX",1,459.2
+"Weatherford, TX",1,113.1
+"BUFORD, GA",1,54.9
+"West Henrietta, NY",1,66.0
+"West Haven, UT",1,177.0
+"West Hartford, CT",1,74.0
+"West Fargo, ND",1,396.8
+"West Columbia, SC",1,103.0
+"Vidalia, LA",1,508.6
+"Victoria, TX",1,64.8
+"Vero Beach, FL",1,283.3
+"Vernon, CT",1,82.4
+"Wayne, PA",1,80.8
+"Wexford, PA",1,56.7
+"Westville, NJ",1,72.1
+"Westport, CT",1,55.2
+"Wilmington, MA, MA",1,521.8
+"Wilmington, MA",1,122.4
+"Willow Park, TX",1,75.1
+"Willoughby, OH",1,231.4
+"Williamston, MI",1,229.0
+"Whitinsville, MA",1,53.7
+"Wauconda, IL",1,97.9
+"Washington, DC, DC",1,83.6
+"Washington D.C., DC",1,329.2
+"Wash, DC",1,258.4
+"Warwick, RI",1,84.7
+"Warwick, PA",1,416.3
+"Waxhaw, NC",1,366.8
+"Wausau, WI",1,59.7
+"Waunakee, WI",1,2383.9
+"Waukee, IA",1,80.5
+"Washington, WA",1,516.5
+"BELLEVILLE, NJ",1,112.5
+"Barnesville, MN",1,134.1
+"Barberton, OH",1,94.0
+"Baraboo, WI",1,685.2
+"Bannockburn, IL",1,96.1
+"Ballwin, MO",1,582.8
+"Bala Cynwyd, PA",1,387.7
+"Bayside, NY",1,833.9
+"WINTER GARDEN, FL",1,129.4
+"Battlefield, MO",1,87.7
+"Bartonville, TX",1,528.1
+"Bartlett, TN",1,129.9
+"Bartlett, IL",1,116.2
+"Bee Caves, TX",1,348.3
+"Bee Cave, TX",1,120.1
+"Bedminster, NJ",1,82.0
+"Bedford Hts, OH",1,489.0
+"Beaufort, SC",1,53.3
+"Bay Shore, NY",1,599.2
+"WESTLAKE, OH",1,125.9
+"WESTLAKE VILLAGE, CA",1,68.0
+"WEST LINN, OR",1,106.2
+"WEST CHESTER, OH",1,94.9
+"Voorhees Township, NJ",1,230.8
+"Visalia, CA",1,103.4
+"Wall, NJ",1,65.5
+"Wakefield, RI",1,86.1
+"Waconia, MN",1,120.2
+"Tumwater, WA",1,52.5
+"WOODINVILLE, WA",1,154.5
+"WINTER PARK, FL",1,61.0
+"Warrendale, PA",1,194.7
+"Warren, PA",1,114.1
+"Wallingford, CT",1,234.6
+"Waller, TX",1,211.7
+"Tuscaloosa, AL",1,314.8
+"Turnersville, NJ",1,180.2
+"Turlock, CA",1,111.9
+"WOODLAND HILLS, CA",1,66.8
+"Winter Haven, FL",1,226.9
+"Winter Garden, FL",1,287.2
+"Winston Salem, NC",1,73.8
+"Winooski, VT",1,158.4
+"Windsor, CO",1,99.6
+"Woodinville, WA",1,153.4
+"Woodcliff Lake, NJ",1,149.5
+"highland, UT",1,641.7
+"Wharton, NJ",1,193.3
+"fullerton, CA",1,151.0
+"fresno, CA",1,515.6
+"fayetteville, WV",1,335.9
+"falls church, VA",1,104.6
+"elmhurst, IL",1,155.8
+"winder, GA",1,210.0
+"Addison, IL",1,186.1
+"Ada, MI",1,53.5
+"Acton, MA",1,4916.2
+"hacienda heights, CA",1,1650.1
+"wagoner, OK",1,333.0
+"Arvin, CA",1,163.0
+"Arvada, CO",1,247.6
+"Auburndale, FL",1,105.2
+"Auburn, NH",1,82.8
+"Auburn Hills, MI",1,272.5
+"Athens, SC",1,245.2
+"Athens, GA",1,185.0
+"Ashland, VA",1,78.6
+"tucson, AZ",1,110.7
+"Avon, IN",1,340.0
+"Austell, GA",1,96.4
+"hixson, TN",1,86.6
+"manassas, VA",1,1254.7
+"lafayette, CO",1,128.8
+"kent, WA",1,95.2
+"kent, OH",1,1045.7
+"kenosha, WI",1,65.3
+"kennesaw, GA",1,74.2
+"Avondale, AZ",1,65.6
+"Woodbridge, VA",1,709.9
+"Woodbridge, NJ",1,800.4
+"Wylie, TX",1,956.4
+"Wrightsville Beach, NC",1,162.6
+"Worthington, OH",1,251.3
+"Woodstock, VA",1,84.4
+"Woodstock, IL",1,305.1
+"Westborough, MA",1,177.1
+"Abilene, TX",1,169.3
+"West Point, MS",1,179.3
+"West Newbury, MA",1,253.6
+"West Memphis, AR",1,126.6
+"West Long Branch, NJ",1,163.9
+"Westminster, MD",1,154.9
+"Westminster, CO",1,857.5
+"Westland, MI",1,80.7
+"Westlake, TX",1,190.3
+"Westford, MA",1,95.7
+"West Springfield, MA",1,226.3
+"Aberdeen, NC",1,831.3
+"kenilworth, NJ",1,468.9
+"richmond, VA",1,381.2
+"redmond, WA",1,71.1
+"puyallup, WA",1,119.5
+"plymouth, MN",1,406.8
+"norwalk, CT",1,127.0
+"mount pleasant, SC",1,90.7
+"tomball, TX",1,180.7
+"Woodbury, MN",1,184.0
+"sturgis, MI",1,102.1
+"skokie, IL",1,285.6
+"scottsdale, AZ",1,2694.3
+"sanford, FL",1,338.0
+"san antonio, TX",1,1882.8
+"rocky river, OH",1,81.6
+":Livermore, CA",1,553.1
+"Woodbury, NY",1,300.9
+"Woodbury, NJ",1,83.9
+"Yorba Linda, CA",1,338.4
+"Bennington, VT",1,204.2
+"Birmingham, MI",1,157.2
+"Birmimgham, AL",1,1545.3
+"Billings, MT",1,185.5
+"Bloomington, MN",1,141.4
+"Bloomingdale, IL",1,855.4
+"Bloomfield Hills, MI",1,117.5
+"Blauvelt, NY",1,84.7
+"Arlignton, TX",1,344.7
+"Blaine, MN",1,864.3
+"Bismarck, ND",1,502.5
+"BURBANK, CA",1,108.7
+"Camas, WA",1,97.6
+"BRAINTREE, MA",1,84.8
+"BRADENTON, FL",1,102.2
+"BOSTON, MA",1,122.4
+"BLOOMFIELD, IA",1,87.3
+"BEND, OR",1,206.1
+"Blasdell, NY",1,188.1
+"State College, PA",1,142.1
+"St. Rose, LA",1,91.0
+"Stratford, CT",1,70.5
+"Stow, OH",1,303.9
+"Stoneham, MA",1,356.2
+"Stillwater, OK",1,75.1
+"Stevensville, MD",1,63.3
+"Sterling, KS",1,86.4
+"Somerville, MA",1,149.9
+"Bensalem, PA",1,138.3
+"Solon, OH",1,78.4
+"Solana Bech, CA",1,1468.4
+"Smock, PA",1,66.8
+"Smithtown, NY",1,66.8
+"Bell Canyon, CA",1,169.5
+"Bethel, CT",1,80.3
+"Bessemer, AL",1,147.6
+"Berwyn, PA",1,82.2
+"Berkeley Springs, WV",1,141.2
+"Somerset, NJ",1,78.0
+"Santee, CA",1,80.1
+"Santa Rosa Beach, FL",1,85.1
+"Seven Hills, OH",1,197.9
+"Sedona, AZ",1,58.9
+"Scottsdale, IL",1,201.2
+"Scott AFB, IL",1,169.7
+"Schenectady, NY",1,176.1
+"Shoreview, MN",1,273.8
+"Skokie, IL",1,758.1
+"Sharon, PA",1,88.2
+"Shaker Heights, OH",1,132.5
+"Sewickley, PA",1,861.2
+"Sevierville, TN",1,52.8
+"Severna Park, MD",1,282.7
+"Skillman, NJ",1,243.4
+"Sioux City, IA",1,95.2
+"Sinking Spring, PA",1,174.7
+"Simi Valley, CA",1,232.7
+"Sheridan, WY",1,324.9
+"South Londonderry, VT",1,104.0
+"South Holland, IL",1,185.2
+"South Hackensack, NJ",1,61.5
+"South El Monte, CA",1,305.9
+"South Coast Metro, CA",1,61.4
+"South Bend, IN",1,109.6
+"Sonoma, CA",1,670.4
+"Southborough, MA",1,99.9
+"South San Francisco, CA",1,681.6
+"Saranac, MI",1,234.6
+"South River, NJ",1,684.9
+"South Miami, FL",1,164.2
+"Spicewood, TX",1,416.6
+"Spartanburg, SC",1,171.8
+"Spanish Fort, AL",1,89.5
+"Spanish Fork, UT",1,68.6
+"Southgate, MI",1,260.0
+"Savannah, GA",1,67.4
+"Sausalito, CA",1,2482.3
+"South Salt Lake, UT",1,1168.9
+"Vancouver, OR",1,232.3
+"Valley View, OH",1,70.8
+"Temple, TX",1,248.1
+"Temple, GA",1,126.1
+"Temple Terrace, FL",1,2313.8
+"Teaneck, NJ",1,59.7
+"Tea, SD",1,129.3
+"Tinley Park, IL",1,79.6
+"Steamboat Springs, CO",1,83.8
+"Thousand Oaks, CA",1,125.3
+"Thornton, CO",1,70.8
+"Thomasville, GA",1,164.4
+"The Villages, FL",1,8282.9
+"Topsfield, MA",1,334.3
+"Topeka, KS",1,68.3
+"Topanga, CA",1,1107.7
+"Toms River, NJ",1,60.4
+"Tinton Falls, NJ",1,269.6
+"Thousand Palms, CA",1,80.0
+"Argyle, TX",1,209.6
+"Arbutus, MD",1,119.1
+"Apollo Beach, FL",1,309.7
+"Apex, NC",1,6388.4
+"Annapolis Junction, MD",1,844.4
+"Tucker, GA",1,60.2
+"Upper Nyack, NY",1,136.6
+"Uniontown, OH",1,82.5
+"Union, NJ",1,69.2
+"Urbana, IA",1,61.3
+"Tyrone, GA",1,58.3
+"Tyler, TX",1,170.4
+"Twin Falls, ID",1,112.5
+"Valhalla, NY",1,82.1
+"VIenna, VA",1,11632.9
+"VERNON HILLS, IL",1,115.9
+"VANCOUVER, WA",1,132.0
+"Urbandale, IA",1,180.9
+"Urbana, OH",1,143.3
+"Tysons Corner, VA",1,2729.0
+"TOMBALL, TX",1,147.4
+"TOLEDO, OH",1,612.2
+"TIGARD, OR",1,164.7
+"TACOMA, WA",1,434.4
+"Syracuse, UT",1,308.1
+"Taylorville, IL",1,188.8
+"Taylorsville, UT",1,301.8
+"Tacoma, WA",1,92.1
+"Truckee, CA",1,161.9
+"TYLER, TX",1,77.6
+"St Peters, MO",1,187.1
+"St Paul, MN",1,72.2
+"St Louis Park, MN",1,69.3
+"St. Paul, MN",1,58.3
+"St. Louis Park, MN",1,87.6
+"St. Louis MO, MO",1,64.8
+"St. James, NY",1,117.6
+"St. Augustine, FL",1,81.1
+"Tabor CIty, NC",1,378.6
+"Troy, NY",1,398.2
+"Trevose, PA",1,1200.9
+"Trenton, NJ",1,77.5
+"Travelers Rest, SC",1,284.9
+"Torrington, CT",1,52.6
+"Summit, NJ",1,500.9
+"Sulphur, LA",1,134.2
+"Suisun City, CA",1,667.8
+"Sugarland, TX",1,67.4
+"TOWSON, MD",1,296.5
+"Stuart, FL",1,417.8
+"Sykesville, MD",1,321.2
+"Swanton, OH",1,679.4
+"Swannnanoa, NC",1,296.4
+"Sunnyvale, CA",1,122.0
+"Sun Valley, CA",1,162.4
+"Sun Prairie, WI",1,78.4
+"Sumner, WA",1,129.5
+"TROY, MI",1,152.9
+"Studio City, CA",1,153.8
+"Greenacres, FL",1,149.4
+"GARLAND, TX",1,92.8
+"Fuquay-Varina, NC",1,54.8
+"Fullerton, CA",1,140.7
+"Ft Collins, CO",1,84.8
+"Crystal, MN",1,314.4
+"Dallas, NC",1,120.8
+"Dallas, GA",1,147.1
+"Asbury Park, NJ",1,197.5
+"Dahlonega, GA",1,296.2
+"DURHAM, NC",1,111.9
+"DRAPER, UT",1,59.5
+"DETROIT LAKES, MN",1,128.0
+"Darien, CT",1,200.9
+"Daphne, AL",1,269.3
+"Danville, IN",1,84.3
+"Danville, CA",1,229.5
+"Dakota Dunes, SD",1,57.8
+"Hanahan, SC",1,621.7
+"Hampton, NH",1,133.7
+"Glenview Nas, IL",1,147.8
+"Glendale, AZ",1,384.7
+"Glen Burnie, MD",1,87.1
+"Gillette, WY",1,283.4
+"Grand Junction, CO",1,171.5
+"Grain Valley, MO",1,472.9
+"Greenland, NH",1,376.3
+"Goleta, CA",1,889.6
+"Gold River, CA",1,60.7
+"Grass Valley, CA",1,186.7
+"Granville, OH",1,121.4
+"Granite Falls, NC",1,163.7
+"Granite Bay, CA",1,116.0
+"Grandview, OH",1,77.6
+"Greenville, WI",1,84.6
+"Greenville, SD",1,339.2
+"Grafton, WI",1,499.0
+"Garnet Valley, PA",1,83.4
+"Garden Grove, CA",1,75.8
+"Garden City, NY",1,381.1
+"Garden City, MO",1,59.7
+"Garden City, ID",1,1692.6
+"Gainesville, VA",1,115.3
+"Gig Harbor, WA",1,947.2
+"Giddings, TX",1,136.3
+"Danvers, MA",1,97.0
+"Germantown, TN",1,2138.2
+"Germantown, MD",1,255.5
+"Georgetown, TX",1,113.3
+"Genoa City, WI",1,62.5
+"Geneseo, NY",1,68.3
+"Fort Pierce, FL",1,75.8
+"Fort Collins, CO",1,193.7
+"Forked River, NJ",1,285.8
+"Fountain Valley, CA",1,104.8
+"Gibson, LA",1,164.8
+"Dania Beach, FL",1,735.5
+"Dane, WI",1,166.7
+"Decatur, TX",1,103.0
+"Decatur, AL",1,288.0
+"De Pere, WI",1,81.6
+"Davidsonville, MD",1,142.1
+"Davidson, NC",1,277.0
+"Darien, IL",1,202.3
+"Gastonia, NC",1,900.5
+"Columbus, TX",1,106.4
+"Columbus, GA",1,233.7
+"Fruita, CO",1,456.4
+"Gainesville, GA",1,97.6
+"GREEN BROOK, NJ",1,184.4
+"GREAT NECK, NY",1,60.0
+"GRAND RAPIDS, MI",1,75.0
+"GOLDEN VALLEY, MN",1,55.7
+"GLENDALE, CA",1,174.1
+"Comfort, TX",1,166.6
+"Hope Mills, NC",1,674.4
+"Honolulu, HI",1,162.1
+"Honesdale, PA",1,531.0
+"Hunt Valley, MD",1,66.5
+"Humble, TX",1,180.2
+"Hudsonville, MI",1,3399.5
+"Hudson, WI",1,327.5
+"Hudson Oaks, TX",1,369.3
+"Hanover, MD",1,282.3
+"Howell, MI",1,198.6
+"ISSAQUAH, WA",1,123.1
+"IRVING, TX",1,223.1
+"IRVINE, CA",1,607.3
+"Hyattsville, MD",1,106.0
+"Henderson, CA",1,132.4
+"Heath, OH",1,309.0
+"Hayden, ID",1,1508.0
+"Havre de Grace, MD",1,387.4
+"Howell, NJ",1,66.0
+"Jackson, OH",1,99.6
+"JACKSONVILLE BEACH, FL",1,153.3
+"Johnston, RI",1,123.3
+"Jericho, NY",1,97.4
+"Jamul, CA",1,158.4
+"Jacksonville Beach, FL",1,337.4
+"Kasyville, UT",1,75.7
+"Kansas City, KS",1,82.5
+"Hot Springs, AR",1,226.9
+"KIRKLAND, WA",1,136.1
+"Jupiter, FL",1,146.8
+"Jordan, NY",1,424.6
+"Holmes, PA",1,157.4
+"Hollywood, CA",1,115.9
+"Holland, OH",1,288.7
+"Holland, MI",1,96.6
+"Holladay, UT",1,473.3
+"Houston, PA",1,409.8
+"Kalispell, MT",1,99.0
+"Greenwood, IN",1,1043.2
+"Greenwich, CT",1,217.9
+"Hackettstown, NJ",1,269.8
+"Hackensack, NJ",1,83.1
+"HUNTSVILLE, AL",1,193.8
+"HUNTINGTON BEACH, CA",1,116.7
+"HOWELL, NJ",1,192.9
+"HOLMEN, WI",1,865.8
+"Haverhill, MA",1,767.4
+"HILLSIDE, NJ",1,72.6
+"Hamden, CT",1,432.3
+"Hamburg, NY",1,3178.7
+"Haltom city, TX",1,77.0
+"Halfmoon, NY",1,427.4
+"Hainesport, NJ",1,58.2
+"Haddonfield, NJ",1,611.8
+"Harrisonburg, VA",1,330.1
+"Harrisburg, NC",1,616.9
+"HOBOKEN, NJ",1,270.9
+"Hartselle, AL",1,178.2
+"Hermosa Beach, CA",1,141.1
+"Henderson, NC",1,104.1
+"Henderson, CO",1,78.3
+"Highland Park, IL",1,139.5
+"High Bridge, NJ",1,175.9
+"Hicksville, NY",1,2689.6
+"Hickory, NC",1,97.3
+"Greer, SC",1,565.7
+"Hoffman Estates, IL",1,1600.8
+"Hixson, TN",1,101.0
+"Hinsdale, IL",1,169.6
+"Hingham, MA",1,282.6
+"Hillsborough, NC",1,2391.9
+"Hillsboro, OR",1,90.5
+"Hilliard, OH",1,225.1
+"HAMILTON, OH",1,99.2
+"Grover Beach, CA",1,62.0
+"Hiawatha, IA",1,59.0
+"Del City, OK",1,148.2
+"Defiance, OH",1,106.4
+"Deerfield, IL",1,66.2
+"Wyncote, PA",1,141.2
+"bingham farms, MI",1,200.5
+"bay shore, NY",1,268.1
+"anaheim, CA",1,68.7
+"Zionsville, IN",1,74.5
+"Fort Washington, MD",1,202.1
+"Zelienople, PA",1,118.5
+"eagan, MN",1,165.2
+"durham, NC",1,290.3
+"doral, FL",1,1496.4
+"delray beach, FL",1,66.3
+"concord, CA",1,326.8
+"colorado springs, CO",1,107.7
+"clearwater, FL",1,188.2
+"troy, MI",1,704.7
+"Zephyrhills, FL",1,1231.4
+"ELDERSBURG, MD",1,191.4
+"EL PASO, TX",1,59.3
+"EDMOND, OK",1,306.4
+"Eden Prarie, MN",1,115.4
+"East Providence, RI",1,55.0
+"East Hampton, NY",1,370.7
+"East Flat Rock, NC",1,196.0
+"East Brunswick, NJ",1,169.6
+"Del Mar, CA",1,61.3
+"Eagle, ID",1,1034.8
+"Eighty Four, PA",1,54.4
+"Effingham, IL",1,54.6
+"Edison, NJ",1,69.0
+"Edgewood, NY",1,83.2
+"Edgewater, MD",1,84.4
+"Eden, NY",1,257.0
+"Delavan, WI",1,101.9
+"Delafield, WI",1,157.4
+"East Boston, MA",1,144.8
+"Windham, NH, NH",1,170.4
+"Windham, NH",1,60.0
+"Winchester, VA",1,117.7
+"Wimberley, TX",1,114.8
+"Wilsonville, OR",1,148.1
+"Wilminton, DE",1,161.7
+"Annandale, VA",1,129.2
+"ASHBURN, VA",1,65.4
+"Yonkers, NY",1,116.5
+"ALLEN, TX",1,1444.1
+"ALBUQUERQUE, NM",1,299.9
+"ALBANY, NY",1,451.1
+"tempe, AZ",1,61.7
+"Windsor Mill, MD",1,132.4
+"chatsworth, CA",1,203.4
+"Woodbine, MD",1,783.7
+"waterbury, CT",1,81.7
+"wall, NJ",1,185.7
+"ANAHEIM, CA",1,329.2
+"Yardley, PA",1,66.8
+"Yakima, WA",1,137.1
+"YORKTOWN, VA",1,276.7
+"Wyoming, MI",1,64.8
+"AURORA, TX",1,1056.3
+"Allegan, MI",1,1095.1
+"Aliso Viejo, CA",1,97.0
+"Alameda, CA",1,286.7
+"valley cottage, NY",1,128.1
+"Alton, IL",1,1031.1
+"Altamonte Springs, FL",1,88.3
+"Alpena, MI",1,73.7
+"Allendale, MI",1,57.0
+"marietta, GA",1,102.7
+"Andover, MA",1,142.1
+"Amherst, NH",1,250.6
+"Ambridge, PA",1,427.2
+"Ambler, PA",1,155.3
+"Ahaheim, CA",1,65.8
+"Fenton, MO",1,153.8
+"Foothill Ranch, CA",1,339.1
+"Fontana, CA",1,1458.1
+"Flushing, NY",1,80.8
+"Flowood, MS",1,223.7
+"Florida, FL",1,2482.1
+"Flint, MI",1,4089.7
+"Fletcher, NC",1,284.4
+"ELLICOTT CITY, MD",1,217.4
+"Elkhart, IN",1,53.6
+"Elk city, OK",1,392.5
+"Deer Park, TX",1,59.0
+"Detroit, MI",1,457.5
+"Destin, FL",1,87.2
+"Derwood, MD",1,472.1
+"Doylestown, PA",1,206.2
+"Dover, DE",1,328.3
+"Diamond Bar, CA",1,61.8
+"Elkridge, MD",1,68.8
+"Fort Walton Beach, FL",1,250.5
+"Franklin, IN",1,267.3
+"Fox Lake, WI",1,67.0
+"Frontenac, MO",1,65.5
+"Frisco, CO",1,62.0
+"Fresh Meadows, NY",1,157.6
+"Fremont, NE",1,82.6
+"Freeburg, MO",1,59.8
+"Ferndale, WA",1,52.7
+"FRESNO, CA",1,116.2
+"FREEHOLD, NJ",1,363.7
+"FRANKFORD, DE",1,119.6
+"FELTON, CA",1,464.9
+"FAYETTEVILLE, AR",1,246.2
+"FALLS CHURCH, VA",1,55.3
+"Fall River, MA",1,54.4
+"Fairfield, OH",1,318.4
+"Fairfield, NJ",1,77.5
+"Fairfield, CT",1,98.2
+"Erie, PA",1,131.2
+"Erie, CO",1,118.9
+"Encino, CA",1,97.1
+"Encinitass, CA",1,52.9
+"Encinitas, CA",1,207.4
+"Exeter, NH",1,54.8
+"Ewa Beach, HI",1,196.7
+"Evans, GA",1,1040.2
+"Dexter, MI",1,68.8
+"Eugene, OR",1,349.3
+"Durham, NE",1,204.2
+"Durango, CO",1,121.7
+"Dunwoody, GA",1,92.0
+"Dundee, OH",1,202.9
+"Dunbar, PA",1,586.9
+"Eagle Mountain, UT",1,73.2
+"EWING, NJ",1,319.8
+"EMMAUS, PA",1,130.0
+"Euless, TX",1,405.1
+"Dulles, VA",1,359.9
+"Dublin, CA",1,805.1
+"Duarte, CA",1,226.7
+"Dripping Springs, TX",1,83.6
+"Drexel, MO",1,94.7
+"Drexel Hill, PA",1,319.1
+"DEER PARK, NY",1,78.9
+"DAVIS, CA",1,390.4
+"Erlanger, KY",1,209.2
+"DANVERS, MA",1,132.5
+"El Cajon, CA",1,111.0
+"Emmaus, PA",1,73.0
+"Emeryville, CA",1,692.0
+"Ely, MN",1,321.1
+"Elmwood Park, NJ",1,83.7
+"Elmsford, NY",1,76.3
+"Elm Grove, WI",1,60.9
+"Escondido, CA",1,198.3
+"DAPHNE, AL",1,283.7
+"COLLEGEVILLE, PA",1,64.1
+"CLEARWATER, FL",1,92.1
+"CINCINNATI, OH",1,558.4
+"CHATTANOOGA, TN",1,75.2
+"CHANTILLY, VA",1,72.3
+"Milledgeville, GA",1,168.1
+"Mogadore, OH",1,61.7
+"Mission, KS",1,72.5
+"Jackson, TN",1,143.2
+"Mishawaka, IN",1,56.2
+"Moorestown, NJ",1,179.2
+"Montgomery, AL",1,236.6
+"Monsey, NY",1,93.5
+"Monroeville, PA",1,65.2
+"Monroe, CT",1,331.2
+"Mokena, IL",1,128.7
+"Mohnton, PA",1,111.0
+"Mount Laurel, NJ",1,428.4
+"Mission Viejo, CA",1,107.7
+"Milwaukie, OR",1,126.6
+"Milton, PA",1,4138.1
+"Milpitas, CA",1,63.7
+"Millersville, MD",1,1359.0
+"Cedar Falls, IA",1,392.1
+"Charleston, WV",1,162.7
+"Charleston, MS",1,80.6
+"Chandler,, AZ",1,2233.8
+"COLONIAL HEIGHTS, VA",1,845.5
+"Cher, NJ",1,81.1
+"Chelmsford, MA",1,178.0
+"Chicago Heights, IL",1,133.0
+"Chevy Chase, MD",1,113.3
+"Chestertown, MD",1,114.6
+"Chesterton, IN",1,578.4
+"Chesterfield, VA",1,166.5
+"Chester, PA",1,76.9
+"CORAL SPRINGS, FL",1,75.4
+"Cherry Hill, NJ",1,413.4
+"Manahawkin, NJ",1,69.0
+"Malibu, CA",1,102.5
+"Mahwah, NJ",1,246.5
+"Maple Grove, MN",1,123.6
+"Mansfield, TX",1,99.9
+"Mansfield, PA",1,143.9
+"Mansfield, MA",1,68.0
+"Mankato, MN",1,102.9
+"Mount Dora, FL",1,894.7
+"Manhattan, KS",1,74.6
+"Massapequa, NY",1,62.8
+"Mason, MI",1,124.1
+"Martinez, GA",1,120.4
+"Marlborough, MA",1,127.0
+"Marina Del Rey, CA",1,1103.0
+"McFarland, WI",1,99.0
+"McDonough, GA",1,70.4
+"McAllen, TX",1,84.9
+"Manitowoc, WI",1,62.1
+"Morristown, NJ",1,83.0
+"Mooresville, IN",1,159.1
+"Medford, OR",1,91.9
+"Medford, NY",1,187.9
+"Medford, NJ",1,62.0
+"Mechanicsville, VA",1,12700.7
+"Meadow Vista, CA",1,540.0
+"McMurray, PA",1,64.3
+"Manchester, NH",1,64.9
+"Middletown, OH",1,87.5
+"Middletown, CT",1,99.0
+"Michigan City, IN",1,94.6
+"Miamisburg, OH",1,512.0
+"Milford, CT",1,123.1
+"Midwest City, OK",1,733.9
+"Midlothian, TX",1,295.4
+"Middletown, PA",1,85.3
+"Mandeville, LA",1,195.7
+"Media, PA",1,113.7
+"North Venice, FL",1,209.2
+"North Smithfield, RI",1,127.3
+"North Salt Lake, UT",1,64.5
+"North Riverside, IL",1,155.6
+"North Myrtle Beach, SC",1,754.4
+"North Miami Beach, FL",1,123.3
+"North Liberty, IA",1,269.7
+"North Las Vegas, NV",1,100.4
+"Minneapolis, PA",1,230.0
+"Norwood, MA",1,240.9
+"Norwalk, IA",1,78.0
+"Northport, NY",1,60.4
+"Northampton, MA",1,142.9
+"New Albany, IN",1,66.6
+"Nevada City, CA",1,99.2
+"Nesconset, NY",1,777.7
+"Neenah, WI",1,95.4
+"Needham, MA",1,56.9
+"Novelty, OH",1,102.7
+"California, CA",1,126.3
+"COTTONWD HTS, UT",1,80.2
+"Caribou, ME",1,410.1
+"Carbon Hill, AL",1,101.7
+"Cape Canaveral, FL",1,165.1
+"Canton, GA",1,244.8
+"Canoga Park, CA",1,1996.5
+"Campbellsport, WI",1,53.1
+"Norristown, PA",1,108.4
+"Castle Pines, CO",1,81.4
+"Casselberry, FL",1,238.3
+"Carson, CA",1,74.4
+"Brookshire, TX",1,359.3
+"Brooklyn Park, MN",1,105.7
+"Brookfield, CT",1,213.2
+"Brockton, MA",1,281.9
+"Newton, NH",1,228.3
+"North Brunswick, NJ",1,176.2
+"Catlett, VA",1,70.2
+"NAPERVILLE, IL",1,750.3
+"N. Huntingdon, PA",1,406.1
+"Murrieta, CA",1,62.9
+"Murray, UT",1,323.7
+"Mt. Vernon, NY",1,133.2
+"Mt. Holly, NJ",1,64.4
+"Mt Washington, KY",1,148.0
+"NORTHBROOK, IL",1,195.6
+"Nazareth, PA",1,129.2
+"NJ, NJ",1,146.0
+"NEWTON CENTER, MA",1,1609.5
+"NEWPORT, OR",1,330.8
+"NEW ULM, MN",1,71.4
+"NEW ORLEANS, LA",1,66.2
+"NASHVILLE, TN",1,104.5
+"Narberth, PA",1,60.1
+"Naperrville, IL",1,92.8
+"Nampa, ID",1,111.4
+"NORCROSS, GA",1,158.3
+"Navarre, FL",1,256.3
+"Natick, MA",1,190.2
+"New Rochelle, NY",1,56.7
+"New Milford, CT",1,125.7
+"New Melle, MO",1,527.2
+"New Braunfels, TX",1,113.3
+"New Bedford, MA",1,162.8
+"Newburgh, IN",1,115.5
+"Mount Vernon, WA",1,121.3
+"New York city, NY",1,436.6
+"Newport, WA",1,90.2
+"Newport News, VA",1,68.5
+"Newhall, CA",1,415.5
+"Newburyport, MA",1,158.6
+"Mt Pleasant, TX",1,122.1
+"Mt Laurel, NJ",1,253.8
+"Mountainside, NJ",1,75.5
+"Mountain Top, PA",1,385.1
+"New York, NJ",1,393.5
+"Lake Balboa, CA",1,2465.6
+"Lagrange, OH",1,59.1
+"Lake Success, NY",1,109.4
+"Lake Orion, MI",1,97.0
+"Lake Havasu City, AZ",1,56.8
+"Kenosha, WI",1,410.5
+"Kenosha, AL",1,179.3
+"Kenilworth, NJ",1,262.3
+"Maumee, OH",1,60.5
+"Kearny, NJ",1,200.9
+"Kaukauna, WI",1,137.1
+"Kingman, AZ",1,328.7
+"King, PA",1,58.1
+"Key West, FL",1,92.9
+"Kentwood, MI",1,532.7
+"Kent, WA",1,135.8
+"Kodak, TN",1,130.7
+"Knightstown, IN",1,96.6
+"Keller, TX",1,842.4
+"Laurie, MO",1,164.2
+"Lehighton, PA",1,142.9
+"Lee's Summit, MO",1,72.8
+"Lebanon, PA",1,74.9
+"League City, TX",1,119.5
+"Laytonsville, MD",1,101.6
+"La Porte, IN",1,60.6
+"La Grange, IL",1,84.1
+"Lake City, GA",1,54.5
+"LOUISVILLE, KY",1,3417.6
+"LITTLE CHUTE, WI",1,75.7
+"LIBERTY LAKE, WA",1,210.2
+"Laconia, NH",1,96.3
+"Lacey, WA",1,91.1
+"LaSalle, CO",1,1726.8
+"LaGrange, KY",1,276.9
+"La Quinta, CA",1,176.0
+"Lake Forest, CA",1,94.0
+"La Crescenta, CA",1,501.6
+"Corpus Christi, TX",1,106.9
+"Corona, CA",1,91.8
+"Coralville, IA",1,175.8
+"Coppell, TX",1,200.3
+"Copley, OH",1,284.6
+"Crystal Lake, IL",1,60.9
+"Crestwood, IL",1,69.0
+"Crestview, FL",1,254.4
+"Kitty Hawk, NC",1,84.2
+"Covingtom, LA",1,546.2
+"Coto de Caza, CA",1,304.6
+"Cincinnati, OH, OH",1,201.6
+"Chula Vista, CA",1,58.4
+"Chino Hills, CA",1,329.9
+"Chico, CA",1,1775.4
+"Chicao, IL",1,518.0
+"Ijamsville, MD",1,150.3
+"Jackson, WY",1,764.9
+"Cranbury, NJ",1,59.7
+"Kingwood, TX",1,85.1
+"Kingston, NJ",1,73.6
+"Kingman, KS",1,270.0
+"LEXINGTON PARK, MD",1,52.2
+"LEHI, UT",1,71.6
+"LEESBURG, VA",1,955.4
+"LEE, NH",1,464.8
+"LARGO, MD",1,1781.1
+"Cortland, OH",1,2742.6
+"LAKE CITY, MN",1,116.9
+"Kutztown, PA",1,171.2
+"Irving Texas, TX",1,405.3
+"Iowa City, IA",1,1002.1
+"Indio, CA",1,70.9
+"Columbia, IL",1,3099.3
+"Conway, AR",1,109.4
+"Commerce, MI",1,117.0
+"Commerce Twp, MI",1,696.5
+"LAKEWOOD, NJ",1,213.0
+"MELVILLE, NY",1,110.0
+"Madisonville, TX",1,386.9
+"Madison, SD",1,72.6
+"Madison, AL",1,292.5
+"MURRIETA, CA",1,1905.5
+"MURRELLS INLET, SC",1,99.6
+"Liberty, MO",1,827.7
+"Lexington, MA",1,164.2
+"Lawrenceville, GA",1,194.2
+"Lenox, MA",1,89.7
+"Linthicum, MD 21090, MD",1,1651.6
+"Lindon, UT",1,275.8
+"Lincolnshire, IL",1,769.6
+"Lincoln City, OR",1,208.0
+"Lima, OH",1,72.3
+"Lilburn, GA",1,151.3
+"Lighthouse Point, FL",1,134.7
+"Livingston, NJ",1,135.6
+"Lewiston, ME",1,476.0
+"Louisville, CO",1,556.5
+"Louisville KY, KY",1,185.4
+"Louisiana, LA",1,205.9
+"Los Angeles, CA 90036, CA",1,98.1
+"MEDFORD, MA",1,99.4
+"MANASSAS, VA",1,84.2
+"Lynnwood, WA",1,68.9
+"Lutz, FL",1,278.2
+"MENDOTA HEIGHTS, MN",1,74.8
+"Lumberton, NJ",1,53.5
+"Lubbock, TX",1,1373.0
+"Lowell, MA",1,131.6
+"MORRISVILLE, NC",1,97.5
+"MIRAMAR, FL",1,271.2
+"MINNEAPOLIS, MN",1,253.0
+"MIAMI BEACH, FL",1,145.3
+"MESA, AZ",1,458.5
+"MENTOR, OH",1,77.5
+"Luray, VA",1,234.5
+"Clovis, NM",1,223.4
+"Clinton Township, MI",1,181.4
+"Clifton Park, NY",1,174.4
+"Colorad Springs, CO",1,353.2
+"Colonial Heights, VA",1,7329.4
+"Colonial Beach, VA",1,823.9
+"Collierville, TN",1,71.9
+"Colleyville, TX",1,3210.3
+"Livermore, CA",1,100.6
+"Chadds Ford, PA",1,57.6
+"Center Point, TX",1,55.0
+"Cedar Park, TX",1,120.3
+"Lakeville, MA",1,144.8
+"Larchmont, NY",1,82.4
+"Lansdale, PA",1,86.6
+"Land O' Lakes, FL",1,384.8
+"Lawton, OK",1,72.6
+"Lawrenceville, NJ",1,212.0
+"College Grove, TN",1,139.2
+"Lititz, PA",1,74.0
+"Lisle, IL",1,63.4
+"Los Alamitos, CA",1,92.2
+"Longwood, FL",1,88.2
+"London, KY",1,151.9
+"Lambertville, NJ",1,143.3
+"Lakewood, CA",1,180.2
+"Lakewood Ranch, FL",1,62.8
+"Cockeysville, MD",1,70.0
+"Cleveland, MO",1,1802.3
+"Clayton, MO",1,154.4
+"Claymont, DE",1,124.0
+"Clarksburg, MD",1,5484.4
+"City of Industry, CA",1,190.2
+"Cincinnnati, OH",1,99.8
+"Coeur D Alene, ID",1,152.9
+"Coconut Grove, FL",1,307.5
+"Coconut Creek, FL",1,60.8
+"Lakeway, TX",1,123.3

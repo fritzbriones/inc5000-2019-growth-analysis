@@ -1,0 +1,28 @@
+industry,company_count,median_growth,average_growth,median_revenue_m,jobs
+Business Products & Services,492,149.4,313.5,9.0,181352.0
+Advertising & Marketing,489,157.5,486.7,7.3,49119.0
+Software,461,186.3,524.7,8.9,60287.0
+Health,356,169.1,546.9,15.7,130695.0
+Construction,350,137.7,358.1,12.2,47676.0
+Consumer Products & Services,315,174.0,685.6,9.3,55030.0
+IT Management,276,127.1,275.4,8.0,35230.0
+Financial Services,239,148.1,423.9,12.5,36016.0
+Government Services,236,189.7,485.3,13.9,36773.0
+Real Estate,198,169.5,417.6,10.2,30250.0
+Logistics & Transportation,186,185.3,717.6,27.6,42052.0
+Manufacturing,181,116.7,333.7,10.7,20241.0
+Retail,163,255.5,584.8,8.4,33398.0
+Human Resources,157,112.2,288.7,10.9,115850.0
+Food & Beverage,127,185.2,668.2,14.8,62030.0
+IT System Development,120,174.0,385.9,9.7,17263.0
+Engineering,81,134.4,222.8,10.2,12506.0
+Telecommunications,79,164.9,515.4,7.7,10041.0
+Energy,78,215.6,592.1,19.2,16928.0
+Education,70,196.6,384.6,6.6,12233.0
+Insurance,70,129.7,306.2,14.2,17951.0
+Security,67,178.6,490.2,11.4,166979.0
+Travel & Hospitality,57,167.6,346.4,7.5,7156.0
+Media,46,225.1,413.7,7.0,8227.0
+Environmental Services,43,123.4,458.6,12.0,5672.0
+IT Services,43,64.1,70.6,7.6,4006.0
+Computer Hardware,32,133.3,652.0,18.7,1625.0

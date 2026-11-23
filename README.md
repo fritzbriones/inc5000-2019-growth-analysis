@@ -4,6 +4,8 @@ A Python and Jupyter analysis of all **5,012 companies** on the 2019 Inc. 5000 l
 
 📓 **[Open the notebook](notebooks/inc5000_2019_analysis.ipynb)**. It runs top to bottom, and GitHub displays it with every chart and table.
 
+🔗 **Companion project:** [Inc. 5000 (2014), Five Years Later](https://github.com/fritzbriones/inc5000-2014-vs-2019-repeat-growers). It tracks which 2014 companies were still on this 2019 list.
+
 ![Industries](images/industries.png)
 
 ## Business question
